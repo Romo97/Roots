@@ -1,0 +1,3 @@
+/home/rodrigomontero/Documentos/Roots/build/CMakeFiles/rebuild_cache.dir
+/home/rodrigomontero/Documentos/Roots/build/CMakeFiles/edit_cache.dir
+/home/rodrigomontero/Documentos/Roots/build/CMakeFiles/Roots.dir
